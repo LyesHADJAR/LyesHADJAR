@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Selma MANI</h1>
-<h3 align="center">A Web app developer from Algeria</h3>
+<h1 align="center">Hi 👋, I'm Lyes HADJAR</h1>
+<h3 align="center">AI student from Algeria</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
-- 💬 Ask me about **React, Nextjs**
+- 💬 Ask me about **C++, HTML, CSS**
 
-- 📫 How to reach me **selmamani1401@gmail.com**
+- 📫 How to reach me **lyes.hadjar.04@gmail.com**
 
-- ⚡ Fun fact **I'm a coffee addict!**
+- ⚡ Fun fact **I love Yago!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/selma mani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selma mani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lyes-hadjar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lyes HADJAR" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
