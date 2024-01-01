@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web projects**
 
-- 💬 Ask me about **C++, HTML, CSS**
+- 💬 Ask me about **C++, HTML, CSS or anything related to design**
 
 - 📫 How to reach me **lyes.hadjar.04@gmail.com**
 
