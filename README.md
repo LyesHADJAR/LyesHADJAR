@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lyes HADJAR</h1>
 <h3 align="center">AI student from Algeria</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Web projects**
+- 👯 I’m looking to collaborate on **ML & AI Projects**
 
-- 💬 Ask me about **C++, HTML, CSS or anything related to design**
+- 💬 Ask me about **C++ & Python, also I'm good at anything related with UI/UX**
 
 - 📫 How to reach me **lyes.hadjar.04@gmail.com**
 
