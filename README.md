@@ -51,7 +51,7 @@ I am a passionate ML & AI CS student at ENSIA, driven by the love for tech and a
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn]([www.linkedin.com/in/lyes-hadjar](https://www.linkedin.com/in/lyes-hadjar/))
+- Connect with me on [LinkedIn]([www.linkedin.com/in/lyes-hadjar](https://www.linkedin.com/in/lyes-hadjar/)
 - Read more of my articles on [arounddatascience](https://arounddatascience.com/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
