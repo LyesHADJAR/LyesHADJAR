@@ -6,7 +6,9 @@ I am a passionate ML & AI CS student at ENSIA, driven by the love for tech and a
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my AI Engineering degree at ENSIA 
+- 🔭 I'm currently pursuing my AI Engineering degree at ENSIA
+- 🖌️ Graphical and UI/UX Designer
+- General Secretary at ENSIA Tech Community
 
 
 ## My Articles
@@ -20,7 +22,6 @@ I am a passionate ML & AI CS student at ENSIA, driven by the love for tech and a
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)
 
 
