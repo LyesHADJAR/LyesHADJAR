@@ -1,47 +1,57 @@
-<h1 align="center">Hi 👋, I'm Lyes HADJAR</h1>
-<h3 align="center">AI student from Algeria</h3>
+# Hi, I'm Lyes HADJAR! 👋
 
-- 🌱 I’m currently learning **Machine Learning**
+I am a passionate ML & AI CS student at ENSIA, driven by the love for tech and ambitious goals. My journey in CS just started, guided by my motto : Seek Knowledge
 
-- 👯 I’m looking to collaborate on **ML & AI Projects**
+![LyesHADJAR's Stats](https://github-readme-stats.vercel.app/api?username=LyesHADJAR&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 💬 Ask me about **C++ & Python, also I'm good at anything related with UI/UX**
+## 🚀 About Me
 
-- 📫 How to reach me **lyes.hadjar.04@gmail.com**
+- 🔭 I'm currently pursuing my AI Engineering degree at ENSIA 
 
-- ⚡ Fun fact **I love Yago!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lyes-hadjar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lyes HADJAR" height="30" width="40" /></a>
-</p><h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-</p>
+## My Articles
+- [Enhancing Real-Time Object Detection: Implementing YOLOv4-Tiny with OpenCV](https://arounddatascience.com/blog/case-studies/enhancing-real-time-object-detection-implementing-yolov4-tiny-with-opencv/)
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,clion,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)
+
+
+## 🌱 Currently Exploring
+
+- 💻 Flask 
+- 📱 Mobile Development
+- 🤖 Machine Learning
+
+## 👯 I’m looking to collaborate on
+
+- Backend Projects Using python
+- Machine Learning notebooks
+- Mobile Apps
+
+## 🔭 I’m currently working on 
+
+- TicTacToe Game using searching algorithms
+- Obsidian Plugin for taking minutes 
+
+
+## 🏆 Achievements
+
+- 🌟 Completed Summer internship virtual program at CodeAlpha
+- 🌟 Third Place at AIfest'23
+
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](www.linkedin.com/in/lyes-hadjar)
+- Read more of my articles on [arounddatascience](https://arounddatascience.com/)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
