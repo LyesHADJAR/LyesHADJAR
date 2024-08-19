@@ -20,7 +20,7 @@ I am a passionate ML & AI CS student at ENSIA, driven by the love for tech and a
 [![My Skills](https://skillicons.dev/icons?i=vscode,clion,anaconda)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,pytorch)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)
 
