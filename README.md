@@ -45,6 +45,7 @@ I am a passionate ML & AI CS student at ENSIA, driven by the love for tech and a
 
 ## 🏆 Achievements
 
+- 🌟 Completed AI internship at Thynk Tech DZ
 - 🌟 Completed Summer internship virtual program at CodeAlpha
 - 🌟 Third Place at AIfest'23
 
