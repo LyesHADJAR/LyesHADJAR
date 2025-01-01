@@ -26,20 +26,21 @@ I am a passionate ML & AI CS student at ENSIA, driven by the love for tech and a
 
 ## 🌱 Currently Exploring
 
-- 💻 Flask 
+- 💻 Software Engineering
 - 📱 Mobile Development
-- 🤖 Machine Learning
+- 🤖 Data Mining
 
 ## 👯 I’m looking to collaborate on
 
-- Backend Projects Using Python
+- Backend Projects
 - Machine Learning Notebooks
 - Mobile Apps
 
 ## 🔭 I’m currently working on 
 
-- TicTacToe Game using searching algorithms
-- Obsidian Plugin for taking minutes 
+- Khfifa : VTC for heavy materials
+- Dentista : Clinical Dental management system
+- Data Mining Project for Air Algerie
 
 ## 🏆 Achievements
 
