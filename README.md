@@ -2,7 +2,7 @@
 
 I am a passionate ML & AI CS student at ENSIA, driven by the love for tech and ambitious goals. My journey in CS just started, guided by my motto: Seek Knowledge.
 
-![LyesHADJAR's Stats](https://github-readme-stats.vercel.app/api?username=LyesHADJAR&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&year=2025)
+![LyesHADJAR's Stats](https://github-readme-stats.vercel.app/api?username=LyesHADJAR&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&year=2024)
 
 ## 🚀 About Me
 
