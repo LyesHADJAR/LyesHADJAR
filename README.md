@@ -20,10 +20,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=LyesHADJAR&theme=vue-dark&hide_border=true" />
-</div>
-
 ## 🚀 About Me
 
 > *"Seek Knowledge"* - My guiding principle
