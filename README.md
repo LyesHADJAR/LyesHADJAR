@@ -13,16 +13,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/LyesHADJAR">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyesHADJAR&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&year=2024" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyesHADJAR&layout=compact&theme=vue-dark&hide_border=true" />
-  </a>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyesHADJAR&theme=vue-dark&hide_border=true" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LyesHADJAR&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&year=2024" alt="LyesHADJAR's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyesHADJAR&layout=compact&theme=vue-dark&hide_border=true" alt="LyesHADJAR's Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyesHADJAR&theme=vue-dark&hide_border=true" alt="LyesHADJAR's GitHub Streak" width="70%" />
+</p>
 
 ## 🚀 About Me
 
