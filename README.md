@@ -18,8 +18,8 @@
   
   <!-- Social Media Badges -->
   <p>
-    <a href="https://www.linkedin.com/in/lyes-hadjar/"><img src="https://img.shields.io/badge/-Lyes_HADJAR-9D00FF?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-    <a href="https://arounddatascience.com/"><img src="https://img.shields.io/badge/-arounddatascience-9D00FF?style=flat-square&logo=Medium&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/lyes-hadjar/"><img src="https://img.shields.io/badge/-Lyes_HADJAR-9D00FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lyes-hadjar/" /></a>
+    <a href="https://arounddatascience.com/"><img src="https://img.shields.io/badge/-arounddatascience-9D00FF?style=flat-square&logo=Medium&logoColor=white&link=https://arounddatascience.com/" /></a>
     <a href="https://github.com/LyesHADJAR"><img src="https://img.shields.io/github/followers/LyesHADJAR?label=Follow&style=social" /></a>
     <img src="https://komarev.com/ghpvc/?username=LyesHADJAR&color=9D00FF&style=flat-square" />
   </p>
@@ -27,21 +27,19 @@
 
 <!-- Tech Grid Background Effect -->
 <div align="center">
-  <img src="https://github.com/LyesHADJAR/LyesHADJAR/blob/main/assets/grid.png" width="100%" height="30px" alt="tech grid">
+  <img src="https://github.com/LyesHADJAR/LyesHADJAR/blob/main/assets/grid.png" width="100%" height="20px" alt="tech grid">
 </div>
 
 <!-- Stats Cards with Neon Theme -->
 <div align="center">
   <a href="https://github.com/LyesHADJAR">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LyesHADJAR&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&title_color=9D00FF&icon_color=9D00FF" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LyesHADJAR&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&year=2024&title_color=9D00FF&icon_color=9D00FF" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyesHADJAR&layout=compact&theme=midnight-purple&hide_border=true&title_color=9D00FF" />
   </a>
 </div>
 
 <!-- About Me Section with Tech Styling -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> About Me
-</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> About Me</h2>
 
 <div align="center">
   <table>
@@ -66,9 +64,7 @@ I'm a passionate ML & AI student at ENSIA, driven by a love for technology and a
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Plants/Seedling.png" alt="Seedling" width="20" height="20" /> Continuously learning and adapting to new technologies
 
 <!-- Featured Publication -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Featured Publications
-</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Featured Publications</h2>
 
 <div align="center">
   <a href="https://arounddatascience.com/blog/case-studies/enhancing-real-time-object-detection-implementing-yolov4-tiny-with-opencv/">
@@ -77,15 +73,11 @@ I'm a passionate ML & AI student at ENSIA, driven by a love for technology and a
 </div>
 
 <!-- Tech Stack with Neon Theme -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
-</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack</h2>
 
 <div align="center">
   <!-- Languages -->
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="20" height="20" /> Languages
-  </h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="20" height="20" /> Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-9D00FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C++-9D00FF?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -94,9 +86,7 @@ I'm a passionate ML & AI student at ENSIA, driven by a love for technology and a
   </p>
   
   <!-- Tools & Frameworks -->
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="20" height="20" /> Tools & Frameworks
-  </h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="20" height="20" /> Tools & Frameworks</h3>
   <p>
     <img src="https://img.shields.io/badge/Flutter-9D00FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
     <img src="https://img.shields.io/badge/VSCode-9D00FF?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
@@ -105,9 +95,7 @@ I'm a passionate ML & AI student at ENSIA, driven by a love for technology and a
   </p>
   
   <!-- AI & ML -->
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="20" height="20" /> AI & ML
-  </h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="20" height="20" /> AI & ML</h3>
   <p>
     <img src="https://img.shields.io/badge/TensorFlow-9D00FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
     <img src="https://img.shields.io/badge/PyTorch-9D00FF?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -117,9 +105,7 @@ I'm a passionate ML & AI student at ENSIA, driven by a love for technology and a
 </div>
 
 <!-- Current Projects with Neon Cards -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Current Projects
-</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Current Projects</h2>
 
 <div align="center">
   <table>
@@ -155,39 +141,35 @@ I'm a passionate ML & AI student at ENSIA, driven by a love for technology and a
 </div>
 
 <!-- Achievements with Neon Styling -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> Achievements
-</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> Achievements</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="30" height="30" /><br>
-        <strong>Second Place at MobAI Hackathon</strong>
+        Second Place at MobAI Hackathon
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Office%20Building.png" alt="Office Building" width="30" height="30" /><br>
-        <strong>AI internship at Thynk Tech DZ</strong>
+        AI internship at Thynk Tech DZ
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" /><br>
-        <strong>Summer internship at CodeAlpha</strong>
+        Summer internship at CodeAlpha
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/3rd%20Place%20Medal.png" alt="3rd Place Medal" width="30" height="30" /><br>
-        <strong>Third Place at AIfest'23</strong>
+        Third Place at AIfest'23
       </td>
     </tr>
   </table>
 </div>
 
 <!-- Connect -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect With Me
-</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect With Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lyes-hadjar/" target="_blank">
@@ -203,7 +185,6 @@ I'm a passionate ML & AI student at ENSIA, driven by a love for technology and a
 
 <!-- Footer -->
 <div align="center">
-  <br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
   
@@ -212,6 +193,5 @@ I'm a passionate ML & AI student at ENSIA, driven by a love for technology and a
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LyesHADJAR&theme=react-dark&hide_border=true&bg_color=101010&color=9d00ff&line=9d00ff&point=9d00ff&area=true" width="100%" alt="Activity Graph">
 </div>
