@@ -1,25 +1,25 @@
 <div align="center">
-  <!-- Jujutsu Kaisen Inspired Header -->
+  <!-- Professional Header -->
   <h1>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=LYES%20HADJAR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Domain%20Expansion:%20Infinite%20Code&descAlignY=55&descSize=20" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=LYES%20HADJAR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%26%20Software%20Developer&descAlignY=55&descSize=20" width="100%"/>
   </h1>
   
-  <!-- Cursed Energy Line -->
+  <!-- Animated Line -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
-  <!-- Power Level Badges -->
+  <!-- Professional Badges -->
   <p>
-    <img src="https://img.shields.io/badge/AI/Software_Engineer-@K2A_Auto-FF6B6B?style=for-the-badge&labelColor=1a1a2e&logo=brain&logoColor=white" alt="K2A Auto" />
-    <img src="https://img.shields.io/badge/AI/Software_Intern-@ACS_(ENAP)-4ECDC4?style=for-the-badge&labelColor=1a1a2e&logo=atom&logoColor=white" alt="ACS ENAP" />
+    <img src="https://img.shields.io/badge/AI/Software_Engineer-@K2A_Auto-FF6B6B?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="K2A Auto" />
+    <img src="https://img.shields.io/badge/AI/Software_Intern-@ACS_(ENAP)-4ECDC4?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="ACS ENAP" />
   </p>
   <p>
-    <img src="https://img.shields.io/badge/4th_Year_Student-@ENSIA-45B7D1?style=for-the-badge&labelColor=1a1a2e&logo=graduation-cap&logoColor=white" alt="ENSIA Student" />
-    <img src="https://img.shields.io/badge/AI/ML-Enthusiast-96CEB4?style=for-the-badge&labelColor=1a1a2e&logo=robot&logoColor=white" alt="AI/ML Enthusiast" />
+    <img src="https://img.shields.io/badge/4th_Year_Student-@ENSIA-45B7D1?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="ENSIA Student" />
+    <img src="https://img.shields.io/badge/AI/ML-Enthusiast-96CEB4?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="AI/ML Enthusiast" />
   </p>
   
   <p><em>AI Engineering Student at <a href="https://www.ensia.edu.dz/">ENSIA</a></em></p>
   
-  <!-- Social Media with Cursed Technique Theme -->
+  <!-- Social Media Links -->
   <p>
     <a href="https://www.linkedin.com/in/lyes-hadjar/"><img src="https://img.shields.io/badge/-Lyes_HADJAR-FF6B6B?style=flat-square&logo=Linkedin&logoColor=white" /></a>
     <a href="https://arounddatascience.com/"><img src="https://img.shields.io/badge/-arounddatascience-4ECDC4?style=flat-square&logo=Medium&logoColor=white" /></a>
@@ -28,12 +28,7 @@
   </p>
 </div>
 
-<!-- Cursed Energy Effect -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- Stats Cards with JJK Theme -->
+<!-- Stats Cards -->
 <div align="center">
   <a href="https://github.com/LyesHADJAR">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LyesHADJAR&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=fff&bg_color=0d1117" />
@@ -41,23 +36,21 @@
   </a>
 </div>
 
-<!-- About Me Section - Jujutsu Sorcerer Profile -->
-<h2 align="center">🧙‍♂️ Sorcerer Profile</h2>
+<!-- About Me Section -->
+<h2 align="center">💼 About Me</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="40" height="40" />
-        <h3>⚡ Cursed Technique</h3>
-        <p><strong>"Infinite Learning"</strong></p>
-        <p><em>The ability to continuously absorb and process knowledge from any domain</em></p>
+        <h3>🎯 Vision</h3>
+        <p><strong>"Continuous Learning & Innovation"</strong></p>
+        <p><em>Committed to staying at the forefront of AI technology and software development</em></p>
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="Shooting Star" width="40" height="40" />
-        <h3>🎯 Domain Expansion</h3>
-        <p><strong>"Intelligent System Genesis"</strong></p>
-        <p><em>Creating AI solutions that solve real-world problems with precision and innovation</em></p>
+        <h3>🚀 Mission</h3>
+        <p><strong>"Building Intelligent Solutions"</strong></p>
+        <p><em>Creating AI-powered systems that solve real-world problems and drive innovation</em></p>
       </td>
     </tr>
   </table>
@@ -68,18 +61,18 @@
 </div>
 
 **Current Status:** 
-- 🏢 Working as AI/Software Engineer at **K2A Auto** - Leading AI integration in automotive software
-- 🔬 AI/Software Intern at **ACS (ENAP)** - Developing enterprise-grade AI solutions for document processing
-- 🎓 4th Year AI Engineering Student at **ENSIA**
-- 🧠 Specializing in Machine Learning, Computer Vision, and Intelligent Systems
-- 🎨 Leading UI/UX design initiatives with a focus on user-centric experiences
+- 🏢 **AI/Software Engineer** at K2A Auto - Leading AI integration in automotive software
+- 🔬 **AI/Software Intern** at ACS (ENAP) - Developing enterprise-grade AI solutions
+- 🎓 **4th Year AI Engineering Student** at ENSIA
+- 🧠 Specializing in **Machine Learning, NLP, and Computer Vision**
+- 🎨 Leading **UI/UX design** initiatives with focus on user experience
 
-<!-- Tech Arsenal - Jujutsu Kaisen Style -->
-<h2 align="center">⚔️ Cursed Tools & Techniques</h2>
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
   <!-- Programming Languages -->
-  <h3>📜 Incantation Languages</h3>
+  <h3>💻 Programming Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/TypeScript-4ECDC4?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -89,7 +82,7 @@
   </p>
   
   <!-- Frameworks & Tools -->
-  <h3>🛠️ Cursed Tools</h3>
+  <h3>🔧 Frameworks & Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/React-4ECDC4?style=for-the-badge&logo=react&logoColor=white" alt="React" />
     <img src="https://img.shields.io/badge/Flutter-45B7D1?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -101,7 +94,7 @@
   </p>
   
   <!-- AI & ML -->
-  <h3>🔮 Cursed Energy Manipulation (AI & ML)</h3>
+  <h3>🤖 AI & Machine Learning</h3>
   <p>
     <img src="https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
     <img src="https://img.shields.io/badge/PyTorch-4ECDC4?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -110,17 +103,16 @@
   </p>
 </div>
 
-<!-- Current Missions -->
-<h2 align="center">🎯 Active Missions</h2>
+<!-- Current Projects -->
+<h2 align="center">📋 Current Projects</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Automobile.png" alt="Automobile" width="50" height="50" /><br>
+      <td align="center" width="33%">
         <h3>🚗 K2A Auto - AI Integration</h3>
         <p><strong>AI/Software Engineer & Design Team Lead</strong></p>
-        <p>Leading the development of AI-powered automotive software solutions. Responsible for:</p>
+        <p>Leading the development of AI-powered automotive software solutions:</p>
         <ul style="text-align: left;">
           <li>🧠 AI model integration for automotive applications</li>
           <li>⚡ Scalable software architecture design</li>
@@ -129,8 +121,7 @@
         </ul>
         <p><code>AI</code> <code>Automotive</code> <code>UI/UX</code> <code>Leadership</code></p>
       </td>
-      <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Document" width="50" height="50" /><br>
+      <td align="center" width="33%">
         <h3>📄 ACS (ENAP) - Document Intelligence</h3>
         <p><strong>AI/Software Engineer Intern</strong></p>
         <p>Developing enterprise-grade AI solutions for intelligent document processing:</p>
@@ -142,44 +133,56 @@
         </ul>
         <p><code>OCR</code> <code>NLP</code> <code>RAG</code> <code>Enterprise AI</code></p>
       </td>
+      <td align="center" width="33%">
+        <h3>🏛️ Moustachar - Ministry RAG System</h3>
+        <p><strong>AI Research & Development</strong></p>
+        <p>Building an intelligent knowledge system for the Ministry of Higher Education:</p>
+        <ul style="text-align: left;">
+          <li>🔍 Advanced Retrieval-Augmented Generation</li>
+          <li>📚 Educational content processing</li>
+          <li>🏛️ Government sector AI integration</li>
+          <li>💡 Policy and decision support systems</li>
+        </ul>
+        <p><code>RAG</code> <code>Government AI</code> <code>Education Tech</code> <code>NLP</code></p>
+      </td>
     </tr>
   </table>
 </div>
 
-<!-- Achievements - Sorcerer Rank -->
-<h2 align="center">🏆 Sorcerer Achievements</h2>
+<!-- Achievements -->
+<h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="40" height="40" /><br>
-        <strong>🥈 Second Place</strong><br>
-        MobAI Hackathon
+        <h4>🥈 Second Place</h4>
+        <p><strong>MobAI Hackathon</strong></p>
+        <p>Mobile AI solutions competition</p>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="40" height="40" /><br>
-        <strong>🥈 Second Place</strong><br>
-        Junction X Algiers
+        <h4>🥈 Second Place</h4>
+        <p><strong>Junction X Algiers</strong></p>
+        <p>International tech hackathon</p>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Office%20Building.png" alt="Office Building" width="40" height="40" /><br>
-        <strong>🏢 AI Internship</strong><br>
-        Thynk Tech DZ
+        <h4>💼 AI Internship</h4>
+        <p><strong>Thynk Tech DZ</strong></p>
+        <p>Artificial Intelligence internship</p>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/3rd%20Place%20Medal.png" alt="3rd Place Medal" width="40" height="40" /><br>
-        <strong>🥉 Third Place</strong><br>
-        AIfest'23
+        <h4>🥉 Third Place</h4>
+        <p><strong>AIfest'23</strong></p>
+        <p>AI innovation competition</p>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Connect - Summoning Circle -->
-<h2 align="center">🔗 Summoning Circle</h2>
+<!-- Connect -->
+<h2 align="center">🔗 Connect With Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lyes-hadjar/" target="_blank">
@@ -199,13 +202,13 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
   
-  <p><em>"In the world of code, we are all students. The moment we stop learning, we become obsolete."</em> 🚀</p>
-  <p>Thanks for visiting my domain! Let's connect and build something extraordinary together.</p>
+  <p><em>"In the world of technology, continuous learning is the key to innovation."</em> 🚀</p>
+  <p>Thanks for visiting my profile! Let's connect and build something amazing together.</p>
 </div>
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LyesHADJAR&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&area_color=96CEB4" width="100%" alt="Cursed Energy Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LyesHADJAR&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&area_color=96CEB4" width="100%" alt="GitHub Activity Graph">
 </div>
 
 <!-- Snake Animation -->
