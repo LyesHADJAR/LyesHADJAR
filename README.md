@@ -1,8 +1,6 @@
 <div align="center">
-  <!-- Professional Header -->
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=100&lines=LYES+HADJAR;AI+%26+Software+Engineer" alt="Header" />
-  </h1>
+  <!-- Wave Banner Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=LYES%20HADJAR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%26%20Software%20Developer&descAlignY=55&descSize=20" width="100%"/>
   
   <!-- Animated Line -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -198,6 +196,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
+  <!-- Footer Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=120&section=footer&animation=twinkling" width="100%"/>
+  
   <p><em>"In the world of technology, continuous learning is the key to innovation."</em> 🚀</p>
   <p>Thanks for visiting my profile! Let's connect and build something amazing together.</p>
 </div>
@@ -205,4 +206,13 @@
 <!-- GitHub Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LyesHADJAR&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&area_color=96CEB4" width="100%" alt="GitHub Activity Graph">
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LyesHADJAR/LyesHADJAR/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LyesHADJAR/LyesHADJAR/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LyesHADJAR/LyesHADJAR/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
