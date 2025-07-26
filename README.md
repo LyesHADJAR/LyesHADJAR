@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Professional Header -->
   <h1>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=LYES%20HADJAR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%26%20Software%20Developer&descAlignY=55&descSize=20" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12&amp;height=200&amp;section=header&amp;text=LYES%20HADJAR&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20Engineer%20%26%20Software%20Developer&amp;descAlignY=55&amp;descSize=20" width="100%"/>
   </h1>
   
   <!-- Animated Line -->
@@ -9,30 +9,30 @@
   
   <!-- Professional Badges -->
   <p>
-    <img src="https://img.shields.io/badge/AI/Software_Engineer-@K2A_Auto-FF6B6B?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="K2A Auto" />
-    <img src="https://img.shields.io/badge/AI/Software_Intern-@ACS_(ENAP)-4ECDC4?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="ACS ENAP" />
+    <img src="https://img.shields.io/badge/AI/Software_Engineer-@K2A_Auto-FF6B6B?style=for-the-badge&amp;labelColor=1a1a2e&amp;logoColor=white" alt="K2A Auto" />
+    <img src="https://img.shields.io/badge/AI/Software_Intern-@ACS_(ENAP)-4ECDC4?style=for-the-badge&amp;labelColor=1a1a2e&amp;logoColor=white" alt="ACS ENAP" />
   </p>
   <p>
-    <img src="https://img.shields.io/badge/4th_Year_Student-@ENSIA-45B7D1?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="ENSIA Student" />
-    <img src="https://img.shields.io/badge/AI/ML-Enthusiast-96CEB4?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="AI/ML Enthusiast" />
+    <img src="https://img.shields.io/badge/4th_Year_Student-@ENSIA-45B7D1?style=for-the-badge&amp;labelColor=1a1a2e&amp;logoColor=white" alt="ENSIA Student" />
+    <img src="https://img.shields.io/badge/AI/ML-Enthusiast-96CEB4?style=for-the-badge&amp;labelColor=1a1a2e&amp;logoColor=white" alt="AI/ML Enthusiast" />
   </p>
   
   <p><em>AI Engineering Student at <a href="https://www.ensia.edu.dz/">ENSIA</a></em></p>
   
   <!-- Social Media Links -->
   <p>
-    <a href="https://www.linkedin.com/in/lyes-hadjar/"><img src="https://img.shields.io/badge/-Lyes_HADJAR-FF6B6B?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-    <a href="https://arounddatascience.com/"><img src="https://img.shields.io/badge/-arounddatascience-4ECDC4?style=flat-square&logo=Medium&logoColor=white" /></a>
-    <a href="https://github.com/LyesHADJAR"><img src="https://img.shields.io/github/followers/LyesHADJAR?label=Follow&style=social" /></a>
-    <img src="https://komarev.com/ghpvc/?username=LyesHADJAR&color=FF6B6B&style=flat-square" />
+    <a href="https://www.linkedin.com/in/lyes-hadjar/"><img src="https://img.shields.io/badge/-Lyes_HADJAR-FF6B6B?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" /></a>
+    <a href="https://arounddatascience.com/"><img src="https://img.shields.io/badge/-arounddatascience-4ECDC4?style=flat-square&amp;logo=Medium&amp;logoColor=white" /></a>
+    <a href="https://github.com/LyesHADJAR"><img src="https://img.shields.io/github/followers/LyesHADJAR?label=Follow&amp;style=social" /></a>
+    <img src="https://komarev.com/ghpvc/?username=LyesHADJAR&amp;color=FF6B6B&amp;style=flat-square" />
   </p>
 </div>
 
 <!-- Stats Cards -->
 <div align="center">
   <a href="https://github.com/LyesHADJAR">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LyesHADJAR&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=fff&bg_color=0d1117" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyesHADJAR&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6B6B&text_color=fff&bg_color=0d1117" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LyesHADJAR&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;title_color=FF6B6B&amp;icon_color=4ECDC4&amp;text_color=fff&amp;bg_color=0d1117" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyesHADJAR&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=FF6B6B&amp;text_color=fff&amp;bg_color=0d1117" />
   </a>
 </div>
 
@@ -44,7 +44,7 @@
     <tr>
       <td align="center" width="50%">
         <h3>🎯 Vision</h3>
-        <p><strong>"Continuous Learning & Innovation"</strong></p>
+        <p><strong>"Continuous Learning and Innovation"</strong></p>
         <p><em>Committed to staying at the forefront of AI technology and software development</em></p>
       </td>
       <td align="center" width="50%">
@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Passionate+AI+Engineer+and+Software+Developer;Building+the+Future+with+Artificial+Intelligence;Transforming+Ideas+into+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;color=FF6B6B&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Passionate+AI+Engineer+and+Software+Developer;Building+the+Future+with+Artificial+Intelligence;Transforming+Ideas+into+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
 **Current Status:** 
@@ -74,32 +74,32 @@
   <!-- Programming Languages -->
   <h3>💻 Programming Languages</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/TypeScript-4ECDC4?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-45B7D1?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/C++-96CEB4?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Dart-FF6B6B?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+    <img src="https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/TypeScript-4ECDC4?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-45B7D1?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/C++-96CEB4?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Dart-FF6B6B?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" />
   </p>
   
   <!-- Frameworks & Tools -->
-  <h3>🔧 Frameworks & Tools</h3>
+  <h3>🔧 Frameworks and Tools</h3>
   <p>
-    <img src="https://img.shields.io/badge/React-4ECDC4?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-    <img src="https://img.shields.io/badge/Flutter-45B7D1?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-96CEB4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/VSCode-FF6B6B?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-    <img src="https://img.shields.io/badge/Linux-4ECDC4?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/Figma-45B7D1?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Adobe_Illustrator-96CEB4?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
+    <img src="https://img.shields.io/badge/React-4ECDC4?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Flutter-45B7D1?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-96CEB4?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/VSCode-FF6B6B?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="VSCode" />
+    <img src="https://img.shields.io/badge/Linux-4ECDC4?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux" />
+    <img src="https://img.shields.io/badge/Figma-45B7D1?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Adobe_Illustrator-96CEB4?style=for-the-badge&amp;logo=adobe-illustrator&amp;logoColor=white" alt="Adobe Illustrator" />
   </p>
   
   <!-- AI & ML -->
-  <h3>🤖 AI & Machine Learning</h3>
+  <h3>🤖 AI and Machine Learning</h3>
   <p>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-4ECDC4?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-45B7D1?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-    <img src="https://img.shields.io/badge/Hugging_Face-96CEB4?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/PyTorch-4ECDC4?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-45B7D1?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-Learn" />
+    <img src="https://img.shields.io/badge/Hugging_Face-96CEB4?style=for-the-badge&amp;logo=huggingface&amp;logoColor=white" alt="Hugging Face" />
   </p>
 </div>
 
@@ -111,7 +111,7 @@
     <tr>
       <td align="center" width="33%">
         <h3>🚗 K2A Auto - AI Integration</h3>
-        <p><strong>AI/Software Engineer & Design Team Lead</strong></p>
+        <p><strong>AI/Software Engineer and Design Team Lead</strong></p>
         <p>Leading the development of AI-powered automotive software solutions:</p>
         <ul style="text-align: left;">
           <li>🧠 AI model integration for automotive applications</li>
@@ -135,7 +135,7 @@
       </td>
       <td align="center" width="33%">
         <h3>🏛️ Moustachar - Ministry RAG System</h3>
-        <p><strong>AI Research & Development</strong></p>
+        <p><strong>AI Research and Development</strong></p>
         <p>Building an intelligent knowledge system for the Ministry of Higher Education:</p>
         <ul style="text-align: left;">
           <li>🔍 Advanced Retrieval-Augmented Generation</li>
@@ -186,13 +186,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lyes-hadjar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://arounddatascience.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-4ECDC4?style=for-the-badge&logo=medium&logoColor=white" alt="Blog">
+    <img src="https://img.shields.io/badge/Blog-4ECDC4?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Blog">
   </a>
   <a href="mailto:lyes.hadjar.04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-45B7D1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-45B7D1?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
   </a>
 </div>
 
@@ -200,7 +200,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12&amp;height=100&amp;section=footer&amp;animation=twinkling" width="100%"/>
   
   <p><em>"In the world of technology, continuous learning is the key to innovation."</em> 🚀</p>
   <p>Thanks for visiting my profile! Let's connect and build something amazing together.</p>
@@ -208,7 +208,7 @@
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LyesHADJAR&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&area_color=96CEB4" width="100%" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LyesHADJAR&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=FF6B6B&amp;line=4ECDC4&amp;point=45B7D1&amp;area=true&amp;area_color=96CEB4" width="100%" alt="GitHub Activity Graph">
 </div>
 
 <!-- Snake Animation -->
