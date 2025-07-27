@@ -1,6 +1,8 @@
 <div align="center">
-  <!-- Wave Banner Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=LYES%20HADJAR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%26%20Software%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <!-- Alternative Header Approach -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=500&height=100&lines=LYES+HADJAR;AI+%26+SOFTWARE+ENGINEER" alt="Header" />
+  </h1>
   
   <!-- Animated Line -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -195,9 +197,6 @@
 <!-- Footer -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-  <!-- Footer Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=120&section=footer&animation=twinkling" width="100%"/>
   
   <p><em>"In the world of technology, continuous learning is the key to innovation."</em> 🚀</p>
   <p>Thanks for visiting my profile! Let's connect and build something amazing together.</p>
