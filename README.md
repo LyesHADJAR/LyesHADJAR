@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Alternative Header Approach -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=500&height=100&lines=LYES+HADJAR;AI+%26+SOFTWARE+ENGINEER" alt="Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=LYES%20HADJAR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Domain%20Expansion:%20Infinite%20Code&descAlignY=55&descSize=20" width="100%"/>
   </h1>
   
   <!-- Animated Line -->
