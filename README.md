@@ -23,7 +23,7 @@ Algiers, Algeria — yes, we have internet
 ### Languages I Mass
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,dart&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,cpp,dart&theme=dark" />
   </a>
 </p>
 
