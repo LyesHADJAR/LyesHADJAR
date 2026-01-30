@@ -1,6 +1,6 @@
 # Lyes Hadjar
 
-**AI Engineer** — I make computers pretend to be smart so you don't have to.
+**AI / Software Engineer Undergrad** — I make computers pretend to be smart so you don't have to.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyes-hadjar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lyes.hadjar.04@gmail.com)
