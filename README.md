@@ -105,7 +105,7 @@ Fuel: Coffee ☕ (mandatory)
 |:---:|:---:|:---|
 | <img src="https://img.shields.io/badge/-Now-58A6FF?style=flat-square" /> | **Command Strategy Advisory** | Building AI for finance consultants. They trust me with client data. **Bold.** |
 | <img src="https://img.shields.io/badge/-2025-7C3AED?style=flat-square" /> | **K2A Auto** | Software Engineer & Design Lead. Cars + AI. What could go wrong? |
-| <img src="https://img.shields.io/badge/-2025-2EA043?style=flat-square" /> | **Ministry of Higher Education** | QA system with RAG. Government-grade AI, bureaucracy-resistant. |
+| <img src="https://img.shields.io/badge/-2025-3FB950?style=flat-square" /> | **Ministry of Higher Education** | QA system with RAG. Government-grade AI, bureaucracy-resistant. |
 | <img src="https://img.shields.io/badge/-2025-D29922?style=flat-square" /> | **Ministry of Vocational Training** | More government AI. I'm basically a civil servant now. |
 
 </div>
