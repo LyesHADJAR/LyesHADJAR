@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:FF6B35,45:FF1744,65:FF6D00,85:FFD600,100:0d1117&height=220&section=header&text=Lyes%20Hadjar&fontSize=72&fontColor=FFFFFF&fontAlignY=35&desc=AI%20/%20Software%20Engineer%20Undergrad&descSize=18&descColor=FFE0B2&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:0d1117&height=220&section=header&text=Lyes%20Hadjar&fontSize=72&fontColor=e6edf3&fontAlignY=35&desc=AI%20/%20Software%20Engineer%20Undergrad&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=400&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=75&lines=%F0%9F%A7%A0+I+make+computers+pretend+to+be+smart;%F0%9F%92%80+so+you+don't+have+to.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=75&lines=%F0%9F%A7%A0+I+make+computers+pretend+to+be+smart;%F0%9F%92%80+so+you+don't+have+to.)](https://git.io/typing-svg)
 
   <br/>
   
@@ -14,8 +14,8 @@
   
   <br/>
   
-  ![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-AI%2FML_Intern-FF6B35?style=for-the-badge&labelColor=0d1117)
-  ![Visitors](https://komarev.com/ghpvc/?username=LyesHADJAR&style=for-the-badge&color=FF6B35&label=PROFILE+VIEWS)
+  ![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-AI%2FML_Intern-58A6FF?style=for-the-badge&labelColor=161b22)
+  ![Visitors](https://komarev.com/ghpvc/?username=LyesHADJAR&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -46,7 +46,7 @@ Fuel: Coffee ☕ (mandatory)
 <td width="50%">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LyesHADJAR&theme=rogue&hide_border=true&area=true&custom_title=Contribution%20Graph&line=FF6B35&point=FFD600&area_color=FF6B3530" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LyesHADJAR&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
 </div>
 
 </td>
@@ -64,7 +64,7 @@ Fuel: Coffee ☕ (mandatory)
 <br/>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,cpp,dart,rust&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,cpp,dart,rust,cs&theme=dark" />
 </p>
 
 <br/>
@@ -88,7 +88,7 @@ Fuel: Coffee ☕ (mandatory)
 <br/>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,figma,linux,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,dotnet,azure,figma,linux,docker,git&theme=dark" />
 </p>
 
 </div>
@@ -103,10 +103,10 @@ Fuel: Coffee ☕ (mandatory)
 
 | ⏰ When | 🏢 Where | 💥 What I Broke |
 |:---:|:---:|:---|
-| <img src="https://img.shields.io/badge/Now-FF6B35?style=flat-square" /> | **Command Strategy Advisory** | Building AI for finance consultants. They trust me with client data. **Bold.** |
-| <img src="https://img.shields.io/badge/2025-FF1744?style=flat-square" /> | **K2A Auto** | Software Engineer & Design Lead. Cars + AI. What could go wrong? |
-| <img src="https://img.shields.io/badge/2025-FFD600?style=flat-square&logoColor=000" /> | **Ministry of Higher Education** | QA system with RAG. Government-grade AI, bureaucracy-resistant. |
-| <img src="https://img.shields.io/badge/2025-6BCB77?style=flat-square" /> | **Ministry of Vocational Training** | More government AI. I'm basically a civil servant now. |
+| <img src="https://img.shields.io/badge/-Now-58A6FF?style=flat-square" /> | **Command Strategy Advisory** | Building AI for finance consultants. They trust me with client data. **Bold.** |
+| <img src="https://img.shields.io/badge/-2025-7C3AED?style=flat-square" /> | **K2A Auto** | Software Engineer & Design Lead. Cars + AI. What could go wrong? |
+| <img src="https://img.shields.io/badge/-2025-2EA043?style=flat-square" /> | **Ministry of Higher Education** | QA system with RAG. Government-grade AI, bureaucracy-resistant. |
+| <img src="https://img.shields.io/badge/-2025-D29922?style=flat-square" /> | **Ministry of Vocational Training** | More government AI. I'm basically a civil servant now. |
 
 </div>
 
@@ -122,28 +122,28 @@ Fuel: Coffee ☕ (mandatory)
 <tr>
 <td align="center" width="25%">
   <br/>
-  <img src="https://img.shields.io/badge/🥈_2nd_Place-FF6B35?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🥈_2nd_Place-58A6FF?style=for-the-badge&labelColor=161b22" />
   <br/><br/>
   <strong>MobAI Hackathon</strong>
   <br/><br/>
 </td>
 <td align="center" width="25%">
   <br/>
-  <img src="https://img.shields.io/badge/🥈_2nd_Place-FF1744?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🥈_2nd_Place-7C3AED?style=for-the-badge&labelColor=161b22" />
   <br/><br/>
   <strong>Junction X Algiers</strong>
   <br/><br/>
 </td>
 <td align="center" width="25%">
   <br/>
-  <img src="https://img.shields.io/badge/🥈_2nd_Place-FFD600?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🥈_2nd_Place-2EA043?style=for-the-badge&labelColor=161b22" />
   <br/><br/>
   <strong>InnovTech by Djezzy</strong>
   <br/><br/>
 </td>
 <td align="center" width="25%">
   <br/>
-  <img src="https://img.shields.io/badge/🥉_3rd_Place-6BCB77?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🥉_3rd_Place-D29922?style=for-the-badge&labelColor=161b22" />
   <br/><br/>
   <strong>AIfest'23</strong>
   <br/><br/>
@@ -163,13 +163,35 @@ Fuel: Coffee ☕ (mandatory)
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LyesHADJAR&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FFD600&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LyesHADJAR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LyesHADJAR&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LyesHADJAR&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LyesHADJAR&theme=radical&hide_border=true&background=0d1117&ring=FF6B35&fire=FFD600&currStreakLabel=FF6B35&sideLabels=FFFFFF&dates=888888" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LyesHADJAR&theme=github-dark-blue&hide_border=true" width="55%" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+<div align="center">
+
+### 🐍 Watch my contributions get eaten
+
+<br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LyesHADJAR/LyesHADJAR/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LyesHADJAR/LyesHADJAR/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LyesHADJAR/LyesHADJAR/output/github-snake-dark.svg" width="100%" />
+  </picture>
+
+> ⚠️ **If the snake isn't showing**: Go to your repo's [Actions tab](https://github.com/LyesHADJAR/LyesHADJAR/actions) → click **Generate Snake Animation** → click **Run workflow** → wait for it to finish. It generates SVGs on the `output` branch.
 
 </div>
 
@@ -181,7 +203,7 @@ Fuel: Coffee ☕ (mandatory)
 
 <div align="center">
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%" />
 
   <br/><br/>
   
@@ -189,12 +211,12 @@ Fuel: Coffee ☕ (mandatory)
 
   <br/>
   
-  <img src="https://img.shields.io/badge/Made_with-Imposter_Syndrome-FF6B35?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Made_with-Imposter_Syndrome-58A6FF?style=for-the-badge&labelColor=161b22" />
 
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:FF6B35,45:FF1744,65:FF6D00,85:FFD600,100:0d1117&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:0d1117&height=120&section=footer" width="100%" />
 </p>
