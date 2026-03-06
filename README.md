@@ -191,7 +191,6 @@ Fuel: Coffee ☕ (mandatory)
     <img alt="github-snake" src="https://raw.githubusercontent.com/LyesHADJAR/LyesHADJAR/output/github-snake-dark.svg" width="100%" />
   </picture>
 
-> ⚠️ **If the snake isn't showing**: Go to your repo's [Actions tab](https://github.com/LyesHADJAR/LyesHADJAR/actions) → click **Generate Snake Animation** → click **Run workflow** → wait for it to finish. It generates SVGs on the `output` branch.
 
 </div>
 
