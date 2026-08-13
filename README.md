@@ -5,7 +5,7 @@ Algiers, Algeria — yes, we have internet.
 
 I build backend systems, applied AI products, and Arabic NLP tools. Occasionally, they even behave as documented.
 
-[Website](https://lyes-hadjar.me) · [LinkedIn](https://www.linkedin.com/in/lyes-hadjar/) · [Email](mailto:lyes.hadjar.04@gmail.com)
+[Website](https://lyehadjar.dev) · [LinkedIn](https://www.linkedin.com/in/lyes-hadjar/) · [Email](mailto:lyes.hadjar.04@gmail.com)
 
 ## 🧰 Tech stack
 
@@ -52,7 +52,7 @@ Coffee remains a mandatory runtime dependency.
 | **Khfifa** | Freight logistics application for the Algerian market, built from Figma wireframes to an app-ready Flutter product. | `Flutter` `Dart` `Figma` |
 | **Algiers Airport Data Mining** | Clustering, association-rule mining, and PCA applied to airport data to identify passenger-experience patterns. | `Python` `pandas` `scikit-learn` |
 
-[See more projects on my website →](https://www.lyes-hadjar.me/#projects)
+[See more projects on my website →](https://www.lyehadjar.dev)
 
 ---
 
