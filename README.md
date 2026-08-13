@@ -12,7 +12,7 @@ I build backend systems, applied AI products, and Arabic NLP tools. Occasionally
 | | |
 | --- | --- |
 | **Work** | AI/Software Engineer Intern at **Command Strategy Advisory**, building C#/.NET systems for financial consulting workflows. |
-| **Research** | Co-leading Algerian dialect diacritization research with **ENSIA × Portland State University**. |
+| **Research** | Co-leading Algerian dialect diacritization research with **ENSIA**. |
 | **Final-year project** | Optimizing Vision Transformer models for embedded object detection under latency, memory, and energy constraints. |
 | **Leadership** | **Vice President** of ENSIA Tech Community since July 2026. |
 | **Open to** | Backend and AI engineering opportunities where shipping matters more than adding “AI-powered” to the landing page. |
