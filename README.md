@@ -18,7 +18,7 @@ I build backend systems, applied AI products, and Arabic NLP tools. Occasionally
 ## 🧭 What I'm doing now
 
 - Building client-facing **C#/.NET backends and REST APIs** for financial consulting workflows at **Command Strategy Advisory**.
-- Co-leading **Algerian dialect diacritization** research with ENSIA and Portland State University.
+- Co-leading **Algerian dialect diacritization** research with ENSIA.
 - Starting my final-year research project on **efficient Vision Transformers for embedded object detection**.
 - Finishing my B.Sc. in Artificial Intelligence Engineering at **ENSIA** — expected June 2027.
 
