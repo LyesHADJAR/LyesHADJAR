@@ -7,7 +7,7 @@ I build backend systems, applied AI products, and Arabic NLP tools. Occasionally
 
 [Website](https://www.lyeshadjar.dev/) · [LinkedIn](https://www.linkedin.com/in/lyes-hadjar/) · [Email](mailto:lyes.hadjar.04@gmail.com)
 
-## 🧰 Tech stack
+## 🧰 Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,rust,dart,fastapi,pytorch,tensorflow,sklearn,react,nextjs,flutter,tailwind,docker,git,linux,figma&perline=9" alt="C#, .NET, Python, TypeScript, Rust, Dart, FastAPI, PyTorch, TensorFlow, scikit-learn, React, Next.js, Flutter, Tailwind CSS, Docker, Git, Linux, and Figma" />
