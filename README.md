@@ -1,7 +1,7 @@
 # Lyes Hadjar
 
 **Final-year AI Engineering student · Backend developer · NLP & computer-vision researcher**  
-Algiers, Algeria — yes, we have internet.
+Algiers, Algeria.
 
 I build backend systems, applied AI products, and Arabic NLP tools. Occasionally, they even behave as documented.
 
