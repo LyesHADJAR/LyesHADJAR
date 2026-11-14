@@ -1,26 +1,26 @@
 # Lyes Hadjar
 
-**Final-year AI Engineering student · Backend developer · NLP & computer-vision researcher**  
+**Full-stack & backend engineer · Applied AI · Computer-vision researcher**  
 Algiers, Algeria.
 
-I build backend systems, applied AI products, and Arabic NLP tools. Occasionally, they even behave as documented.
+I build production full-stack and backend systems for real clients, and research efficient vision models for embedded hardware. Occasionally, they even behave as documented.
 
 [Website](https://www.lyeshadjar.dev/) · [LinkedIn](https://www.linkedin.com/in/lyes-hadjar/) · [Email](mailto:lyes.hadjar.04@gmail.com)
 
 ## 🧰 Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,rust,dart,fastapi,pytorch,tensorflow,sklearn,react,nextjs,flutter,tailwind,docker,git,linux,figma&perline=9" alt="C#, .NET, Python, TypeScript, Rust, Dart, FastAPI, PyTorch, TensorFlow, scikit-learn, React, Next.js, Flutter, Tailwind CSS, Docker, Git, Linux, and Figma" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,cs,dotnet,py,fastapi,rust,postgres,supabase,docker,githubactions,cloudflare,pytorch,tensorflow,sklearn,flutter,figma&perline=9" alt="TypeScript, React, Next.js, C#, .NET, Python, FastAPI, Rust, PostgreSQL, Supabase, Docker, GitHub Actions, Cloudflare, PyTorch, TensorFlow, scikit-learn, Flutter, and Figma" />
 </p>
 
-**Core:** C#/.NET and Python · **AI/ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face · **Product:** TypeScript, React, Next.js, Flutter · **Tools:** Docker, Git, Linux, Figma
+**Web:** TypeScript, React, Next.js, TanStack Start · **Backend:** C#/.NET, Python/FastAPI, Rust, PostgreSQL/Supabase · **AI/ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face · **Ops:** Docker, GitHub Actions, Cloudflare, Stripe
 
 ## 🧭 What I'm doing now
 
+- Working as a **freelance full-stack engineer** on a client's portfolio of 5+ production web apps: CI/CD, Supabase/PostgreSQL, Stripe billing, security fixes, and custom domains.
 - Building client-facing **C#/.NET backends and REST APIs** for financial consulting workflows at **Command Strategy Advisory**.
-- Co-leading **Algerian dialect diacritization** research with ENSIA.
 - Starting my final-year research project on **efficient Vision Transformers for embedded object detection**.
-- Finishing my B.Sc. in Artificial Intelligence Engineering at **ENSIA** — expected June 2027.
+- Finishing my B.Sc. in Artificial Intelligence Engineering at **ENSIA**, expected June 2027.
 
 Coffee remains a mandatory runtime dependency.
 
@@ -28,6 +28,7 @@ Coffee remains a mandatory runtime dependency.
 
 | Dates | Organization | Engineering work |
 | --- | --- | --- |
+| Sep 2026–present | **Freelance** · Algiers, remote | Full-stack engineer for a client's portfolio of 5+ production web apps: GitHub CI/CD, Supabase/PostgreSQL, Stripe subscription billing, security fixes, and custom domains cut over with redirects. |
 | Oct 2025–present | **Command Strategy Advisory** · Paris, remote | C#/.NET backend tools and REST APIs for financial consulting workflows. They trust me with client data. Bold move. |
 | Jun–Nov 2025 | **Ministry of Higher Education and Scientific Research** | Arabic document question answering using AraBERT, FAISS, FastAPI, and React. Bureaucracy-resistant, mostly. |
 | Sep–Oct 2025 | **Ministry of Vocational Training and Education** | Rust backend and NLP recommendation engine for national training orientation. The paperwork remains undefeated. |
@@ -56,4 +57,4 @@ Coffee remains a mandatory runtime dependency.
 
 ---
 
-Open to backend and AI engineering opportunities, technical collaborations, and research work. DMs are open; coffee is still mandatory.
+Open to junior backend, full-stack, and AI engineering roles, technical collaborations, and research work. DMs are open; coffee is still mandatory.
